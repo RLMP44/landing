@@ -1,0 +1,22 @@
+.footer {
+  color: #f2d7ba;
+  background-color: #141316;
+  padding: 20px;
+}
+
+.footer p {
+  text-align: center;
+}
+
+.horizontal-list li {
+  list-style: none;
+  margin: 0 8px;
+  font-size: 30px;
+}
+
+.horizontal-list {
+  margin: 24px;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}

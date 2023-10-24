@@ -1,0 +1,26 @@
+.card {
+  background-color: white;
+  color: #517074;
+  box-shadow: 2px 2px 2px #517074;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+  width: 245px;
+  height: 360px;
+}
+
+.card img {
+  height: 240px;
+  width: 240px;
+  border-radius: 10px;
+}
+
+.card h3,
+.card p {
+  color: #517074;
+  text-align: center;
+}
+
+.cards-title {
+  text-align: center;
+}

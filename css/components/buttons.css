@@ -1,0 +1,19 @@
+.button-beige {
+  display: inline-block;
+  text-align: center;
+  background-color: #f2d7ba;
+  color: black;
+  font-weight: bold;
+  padding: 11px 11px;
+  margin-left: 20px;
+  width: 100px;
+  border-radius: 10px;
+  border: solid white 2px;
+}
+
+.button-beige:hover {
+  transition: 1s;
+  background-color: black;
+  color: #f2d7ba;
+  border: solid #f2d7ba 2px;
+}
