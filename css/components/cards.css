@@ -24,3 +24,8 @@
 .cards-title {
   text-align: center;
 }
+
+.card:hover {
+  background-color: #d2e0e2;
+  transition: .5s;
+}
