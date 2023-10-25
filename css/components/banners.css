@@ -1,16 +1,18 @@
 .banner {
-  background-position: 214px -670px;
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
-  padding: 100px 30px;
+  padding: 200px 0;
 }
 
 .banner h2,
 .banner p {
   color: #f2d7ba;
+  text-align: left;
+  padding: 0px 0px 0px 70px;
+  text-shadow: 0 0 2px black;
 }
 
-.banner h2,
 .banner p {
-  text-align: left;
-  padding: 0px 0px 0px 20px;
+  font-weight: bold;
 }
